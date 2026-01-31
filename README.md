@@ -2,7 +2,7 @@
 
 ```
 $ git clone git@github.com:77fdvarvam/github-globe.git --recursive && cd ./github-globe
-$ npm install
+$ npm install --force
 ```
 
 # Usage
